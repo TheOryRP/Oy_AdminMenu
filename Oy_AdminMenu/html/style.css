@@ -1,0 +1,11 @@
+body {  
+    font-family: Arial, sans-serif;  
+    background-color: rgba(0, 0, 0, 0.8);  
+    color: white;  
+}  
+
+#adminMenu {  
+    width: 300px;  
+    background: #222;  
+    padding: 10px;  
+}  
